@@ -12,7 +12,7 @@ function SignUp() {
   return (
     <>
       <h1>Registreren</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab alias cum debitis dolor dolore fuga id molestias qui quo unde?</p>
+      <p>test</p>
       <form onSubmit={handleSubmit(onSubmit)}>
         <label htmlFor="email-field">
           Email:
